@@ -1,0 +1,19 @@
+{
+  "name": "bookmarklet-generator",
+  "version": "1.0.0",
+  "description": "compilation of bookmarklets and the tools to generate them",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "gulp-babel": "^8.0.0",
+    "gulp-bookmarklet": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
